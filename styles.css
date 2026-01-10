@@ -1,0 +1,21 @@
+
+/*
+body{
+  background-image:url(./assets/main-image.png);
+  background-repeat: no-repeat;
+}
+*/
+
+
+/*
+page {
+  border-radius: 50%;
+  border-color: rgb(63, 7, 103);
+  padding: 300px;
+}
+*/
+
+img {
+  border-radius: 16px;
+  
+}
