@@ -59,3 +59,12 @@ ul {
   padding-left: 24px; 
 }
 
+footer {
+  padding-bottom: 48px;
+  text-align: center;
+  color:white;
+}
+
+footer img {
+  vertical-align: middle;
+}
